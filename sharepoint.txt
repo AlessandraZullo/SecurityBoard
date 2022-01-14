@@ -1,0 +1,10 @@
+/_vti_pvt/service.cnf
+/_vti_inf.html
+/_vti_bin/
+/_vti_bin/spsdisco.aspx
+/_vti_bin/shtml.dll/_vti_rpc"
+/_vti_bin/_vti_aut/author.dll"
+/_vti_bin/_vti_adm/admin.dll"
+/_vti_bin/owssvr.dll"
+/_vti_bin/SiteData.asmx
+/_layouts/userdisp.aspx?Force=True&ID=ID_UTENTE (1,2,3, ETC)
