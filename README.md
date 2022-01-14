@@ -1,2 +1,2 @@
 # SecWordlist
-My personal wordlist for the fuzzing phases during the pentetration tests.
+My personal wordlist to fuzz endpoint or authentication during the pentetration tests.
