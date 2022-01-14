@@ -1,0 +1,15 @@
+ /mapviewer/console/home.jsp
+ /mapviewer/endsession.jsp
+ /mapviewer/mvlogon.jsp
+ /mapviewer/omserver
+ /mapviewer/mcserver
+ /mapviewer/foi
+ /mapviewer/restartsession.jsp
+ /mapviewer/omserver?oamlogout=1
+ /mapviewer/omserver?getv=t
+ /mapviewer/console/admin/datasources.jsp
+ /mapviewer/console/admin/manage.jsp
+ /mapviewer/console/metadata.jsp
+ /mapviewer/console/configuration.jsp
+ /mapviewer/console/about.jsp
+ /mapviewer/j_security_check
