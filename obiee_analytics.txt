@@ -1,0 +1,15 @@
+ /analytics/saw.dll?Dashboard&portalPath=%2fusers%2f%3Cuser_logged%3E
+ /analytics/saw.dll?bieehome&startPage=1
+ /analytics/saw.dll?catalog
+ /analytics/saw.dll?catalog&action=searchpanel&type=all
+ /analytics/saw.dll?EditDashboard&PortalPath=%2fusers%2fINSERTIDUTENTE%2f_portal&Page=pagina%201&Done=saw.dll%3fDashboard
+ /analytics/saw.dll?dashboard&PortalPath=/
+ /analytics/saw.dll?bipublisherEntry&Action=schedule&itemType=.xdo&bipPath=&path=
+ /analytics/saw.dll?Admin
+ /analytics/saw.dll?Sessions
+ /analytics/saw.dll?ManageIBotSessions
+ /analytics/saw.dll?PrivilegeAdmin
+ /analyticsws/saw.dll/wsdl/v7
+ /analytics/saw.dll?Dashboard&portalPath=%2fusers%2f%3Cutente_loggato%3E
+ /analytics/saw.dll?aboutpage
+ /va/home.jsp
