@@ -1,1 +1,10 @@
-/wp-content/debug.log
+wp-content/debug.log
+readme.html
+license.txt
+wp-config-sample.php
+wp-admin/install.php
+wp-admin/upgrade.php
+wp-admin/setup-config.php
+wp-json/wp/v2/users
+wp-json/wp/v2/posts
+wp-json
