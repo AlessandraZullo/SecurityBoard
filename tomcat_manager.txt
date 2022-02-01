@@ -113,3 +113,5 @@
 /servlet/org.apache.catalina.servlets.InvokerServlet/org.apache.catalina.servlets.DefaultServlet/tomcat.gif
 /servlet/org.apache.catalina.servlets.DefaultServlet/tomcat.gif
 /servlet/org.apache.catalina.INVOKER.org.apache.catalina.servlets.DefaultServlet/tomcat.gif
+/manager/status.xsd
+/examples/jsp/snp/snoop.jsp
