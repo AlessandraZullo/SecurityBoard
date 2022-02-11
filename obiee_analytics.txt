@@ -13,3 +13,4 @@
  /analytics/saw.dll?Dashboard&portalPath=%2fusers%2f%3Cutente_loggato%3E
  /analytics/saw.dll?aboutpage
  /va/home.jsp
+/analytics/saw.dll?manageCaptions
