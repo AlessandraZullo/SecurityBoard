@@ -13,3 +13,4 @@
  /mapviewer/console/configuration.jsp
  /mapviewer/console/about.jsp
  /mapviewer/j_security_check
+ /mapviewer/console/redirect.jsp
