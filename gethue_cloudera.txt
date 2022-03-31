@@ -1,2 +1,3 @@
 /desktop/api/users/autocomplete
 /hue/editor/?type=xss_payload
+/help/#<img src="x" onerror="alert(1)>"
