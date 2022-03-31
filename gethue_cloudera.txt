@@ -1,0 +1,2 @@
+/desktop/api/users/autocomplete
+/hue/editor/?type=xss_payload
