@@ -8,3 +8,4 @@ wp-admin/setup-config.php
 wp-json/wp/v2/users
 wp-json/wp/v2/posts
 wp-json
+author/admin/
