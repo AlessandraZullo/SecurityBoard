@@ -9,3 +9,5 @@ wp-json/wp/v2/users
 wp-json/wp/v2/posts
 wp-json
 author/admin/
+wp-json/wpml/tm/v1/ams/status
+wp-json/otgs/installer/v1/push/fetch-subscription
