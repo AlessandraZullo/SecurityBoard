@@ -1,3 +1,7 @@
+/catalog.n3
+/catalog.ttl
+/catalog.xml
+/catalog.jsonld
 /swagger/index.html
 /swagger/v1/swagger.json
 /swagger-ui.html
@@ -50,4 +54,4 @@
 /api/v3
 ?configUrl=https://jumpy-floor.surge.sh/test.json
 ?url=https://jumpy-floor.surge.sh/test.yaml
-
+/api/1/action
