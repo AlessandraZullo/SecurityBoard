@@ -1,0 +1,5 @@
+/_profiler/phpinfo
+/app.php
+/_profiler/open?file=
+/storage/logs/laravel.log
+/logs/?dl=
