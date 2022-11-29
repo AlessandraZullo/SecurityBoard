@@ -55,3 +55,13 @@
 ?configUrl=https://jumpy-floor.surge.sh/test.json
 ?url=https://jumpy-floor.surge.sh/test.yaml
 /api/1/action
+/.well-known/openid_configuration
+/.well-known/openid_configuration/jwks
+/connect/authorize
+/connect/token
+/connect/userinfo
+/connect/endsession
+/connect/checksession
+/connect/revocation
+/connect/introspect
+/connect/deviceauthorization
