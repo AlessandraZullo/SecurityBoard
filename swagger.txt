@@ -65,3 +65,4 @@
 /connect/revocation
 /connect/introspect
 /connect/deviceauthorization
+/?url=%3Cscript%3Ealert(atob(%22SGVyZSBpcyB0aGUgWFNT%22))%3C/script%3E
