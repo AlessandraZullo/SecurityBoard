@@ -1,2 +1,9 @@
 /action
 /jolokia/list
+/heapdump
+/logfile
+/info
+/health
+/management
+/actuator
+/actuator/health
