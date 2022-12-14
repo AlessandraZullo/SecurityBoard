@@ -1,0 +1,5 @@
+/secure/AboutPage.jspa
+/AboutPage.jspa
+/osd.jsp 
+/secure/MyJiraHome.jspa 
+/secure/QuickSearch.jspa?searchString=%27
