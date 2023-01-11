@@ -23,4 +23,8 @@ nmap -sC -sV $url >> $output_file
 echo "Checking for known vulnerabilities..."
 vulners -s $url >> $output_file
 
+# Check getallurls
+echo "Check getallurls"
+gau -s $url
+
 echo "Recon complete!"
