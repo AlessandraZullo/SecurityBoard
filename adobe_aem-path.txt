@@ -22,6 +22,7 @@
 /apps.feed.xml
 /bin.json
 /bin.1.json
+/content/.search.x.json?query=.zip&limit=5000
 /bin.infinity.json
 /bin.xml
 /bin.1.xml
@@ -31,6 +32,7 @@
 /etc.infinity.json
 /etc.xml
 /etc.1.xml
+/content/.childrenlist.json
 /etc.feed.xml
 /home.json
 /home.1.json
