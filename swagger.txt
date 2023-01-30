@@ -9,6 +9,7 @@
 /swagger/static/index.html
 /swagger-ui/swagger.json
 /swagger/ui/index
+/swagger-resources/configuration/security 
 /apidocs/swagger.json
 /api-docs/swagger.json
 /swagger-ui
