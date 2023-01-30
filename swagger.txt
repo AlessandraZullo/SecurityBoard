@@ -14,6 +14,7 @@
 /api-docs/swagger.json
 /swagger-ui
 /api-docs
+/swagger-ui/index.html
 /apidocs
 /swagger
 /v1/swagger.json
