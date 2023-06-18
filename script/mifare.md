@@ -16,3 +16,16 @@ autoreconf -vis
 make && sudo make install
 mfoc-hardnested -O test.dmp
 ```
+
+
+if there is error	libnfc.driver.acr122_usb	Unable to claim USB interface (Device or resource busy) edit /etc/modprobe.d/blacklist-libnf.con
+
+```
+blacklist  nfc
+blackilist  pn533
+blacklist  pn533_usb
+```
+then run
+```
+sudo modprobe -rf pn533_usb
+```
