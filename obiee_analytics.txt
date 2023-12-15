@@ -14,3 +14,4 @@
  /analytics/saw.dll?aboutpage
  /va/home.jsp
 /analytics/saw.dll?manageCaptions
+/xmlpserver/help/help.jsp
