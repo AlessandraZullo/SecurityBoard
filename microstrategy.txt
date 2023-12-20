@@ -1,3 +1,4 @@
 /MicroStrategyLibrary/api-docs/index.html#/
 /MicroStrategy/servlet/mstrWeb
 /MicroStrategy/servlet/taskProc
+/MicroStrategyLibrary/auth/ui/loginPage
