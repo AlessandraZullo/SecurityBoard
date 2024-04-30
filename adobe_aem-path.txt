@@ -1,4 +1,5 @@
 /system/sling.js
+/.json/NJV.html
 /system/sling/info.sessionInfo.json
 /system/sling/info.sessionInfo.txt
 /jcr:content.json
