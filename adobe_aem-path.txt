@@ -2,6 +2,7 @@
 /.json/NJV.html
 /system/sling/info.sessionInfo.json
 /system/sling/info.sessionInfo.txt
+/.children.json/hWW.html
 /jcr:content.json
 /.json
 /.1.json
