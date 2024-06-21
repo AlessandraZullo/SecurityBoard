@@ -5,6 +5,7 @@
  /analytics/saw.dll?EditDashboard&PortalPath=%2fusers%2fINSERTIDUTENTE%2f_portal&Page=pagina%201&Done=saw.dll%3fDashboard
  /analytics/saw.dll?dashboard&PortalPath=/
  /analytics/saw.dll?bipublisherEntry&Action=schedule&itemType=.xdo&bipPath=&path=
+/analytics/saw.dll?IssueRawSQL
  /analytics/saw.dll?Admin
  /analytics/saw.dll?Sessions
  /analytics/saw.dll?ManageIBotSessions
