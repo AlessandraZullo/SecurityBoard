@@ -3,3 +3,7 @@ My personal wordlist to fuzz endpoint or authentication during the pentetration 
 
 # Poc
 My personal poc to proof of concept 
+
+
+# Tips 
+Tips and Trick (angular, etc)
