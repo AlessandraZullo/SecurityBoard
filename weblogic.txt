@@ -5,6 +5,9 @@
 *.jsp
 *.jsp/
 *.jws
+hello
+HelloVXML.jsp
+HelloHTMLError.jsp
 *.shtml/
 AdminCaptureRootCA
 AdminClients
