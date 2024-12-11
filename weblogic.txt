@@ -1,4 +1,6 @@
 *
+/bea_wls_internal/classes/weblogic/utils/io/oif/WebLogicFilterConfig.class
+/bea_wls_internal/classes/weblogic/common/internal/VersionInfoFactory$VERSION_INFO_SINGLETON.class
 *.gif
 *.gif/
 *.html
