@@ -1,6 +1,14 @@
 *
 /bea_wls_internal/classes/weblogic/utils/io/oif/WebLogicFilterConfig.class
 /bea_wls_internal/classes/weblogic/common/internal/VersionInfoFactory$VERSION_INFO_SINGLETON.class
+/dms
+/_async
+/bea_wls_cluster_internal
+/bea_wls_deployment_internal
+/bea_wls_internal
+/uddi
+/uddiexplorer
+/inspection.wsil
 *.gif
 *.gif/
 *.html
