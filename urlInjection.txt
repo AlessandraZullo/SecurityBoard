@@ -1,0 +1,8 @@
+http://attacker.com
+https://attacker.com
+attacker.com
+www.attacker.com
+file://attacker.com
+mailto:esempio@attacker.com
+ws://www.prova.it:8080
+http://attacker.com @mail.com
