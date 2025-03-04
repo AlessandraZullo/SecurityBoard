@@ -1,4 +1,7 @@
 /catalog.n3
+/api/
+/api/swagger-ui
+/openapi.json
 /catalog.ttl
 /catalog.xml
 /catalog.jsonld
