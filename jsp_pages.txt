@@ -1,4 +1,5 @@
 index.jsp
+aa.js
 login.jsp
 home.jsp
 500.jsp
