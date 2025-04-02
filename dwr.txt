@@ -5,3 +5,4 @@
 /index.html
 /interface/
 /interface/ServiceName.js
+/util.js
