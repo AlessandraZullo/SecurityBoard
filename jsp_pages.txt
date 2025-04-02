@@ -11,6 +11,8 @@ default.jsp
 treeview.jsp
 userList.jsp
 treetable.jsp
+status.js
+validator-compress.js
 userForm.jsp
 roleForm.jsp
 roleList.jsp
