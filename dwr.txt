@@ -1,0 +1,7 @@
+/dwr/
+/dwr/index.html
+/dwr/interface/
+/dwr/interface/ServiceName.js
+/index.html
+/interface/
+/interface/ServiceName.js
