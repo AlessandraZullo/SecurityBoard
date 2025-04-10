@@ -1,3 +1,4 @@
+ www.attacker.com
 http://attacker.com
 https://attacker.com
 attacker.com
@@ -6,3 +7,11 @@ file://attacker.com
 mailto:esempio@attacker.com
 ws://www.prova.it:8080
 http://attacker.com @mail.com
+ftp://attacker.com/resource
+gopher://attacker.com
+mailto:example@attacker.com
+javascript:alert(1)
+data:text/html,<script>alert(1)</script>
+ws://attacker.com
+http:%2f%2fattacker.com
+wss://attacker.com
