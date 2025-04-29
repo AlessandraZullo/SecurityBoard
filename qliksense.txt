@@ -1,0 +1,11 @@
+/api/dataprepservice/v1/openapi
+/hub
+/dev/hub
+/dev-hub/engine-api-explorer
+/qmc/
+/qmc/users
+/api-explorer
+/qrs
+/qps
+/qes
+/qrs/license/useraccesstype
