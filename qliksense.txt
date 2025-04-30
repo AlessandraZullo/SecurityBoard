@@ -12,3 +12,9 @@
 /api/capability/v1/list
 /api/v1/features
 /qps/logout?targetUri=
+/api/about/v1/components
+/api/about/v1/externalUrls
+/api/about/v1/systemInfo
+/api/about/v1/thirdParty
+/api/about/v1/language
+/api/about/v1/licenses/QlikSense.pdf
