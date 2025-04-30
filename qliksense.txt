@@ -9,3 +9,6 @@
 /qps
 /qes
 /qrs/license/useraccesstype
+/api/capability/v1/list
+/api/v1/features
+/qps/logout?targetUri=
