@@ -1,5 +1,6 @@
 /api/dataprepservice/v1/openapi
 /hub
+/api/odag/v1/
 /dev/hub
 /dev-hub/engine-api-explorer
 /qmc/
