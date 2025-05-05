@@ -18,3 +18,5 @@
 /api/about/v1/thirdParty
 /api/about/v1/language
 /api/about/v1/licenses/QlikSense.pdf
+/qmc/externalprogramtasks/id
+/tempcontent/
