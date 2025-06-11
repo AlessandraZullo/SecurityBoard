@@ -75014,3 +75014,6 @@
 /actuator/health
 /actuator/
 /actuator/health/**
+/rest/lock
+/rest/login
+/rest/spa-properties
