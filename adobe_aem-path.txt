@@ -7,6 +7,14 @@
 /.json%0Aa.html?debug=layout
 /.json
 /.1.json
+/system/console
+/system/admin
+/system/sling/cqform/defaultlogin.html
+/crx/de/index.jsp OR /crx/
+/etc/packages.html
+/content/geometrixx
+/libs/cq/core/content/login.html
+/libs/cq/core/content/welcome.html
 /.infinity.json
 /.xml
 /.1.json;%0Aa.png/.json
