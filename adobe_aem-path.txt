@@ -4,6 +4,7 @@
 /system/sling/info.sessionInfo.txt
 /.children.json/hWW.html
 /jcr:content.json
+/.json%0Aa.html?debug=layout
 /.json
 /.1.json
 /.infinity.json
