@@ -9,7 +9,7 @@
 /.1.json
 /system/console
 /system/admin
-
+/libs/granite/security/currentuser.json
 /.1.json;%0Aa.png/.json
 /.2.json;%0Aa.png/.json
 /.3.json;%0Aa.png/.json
