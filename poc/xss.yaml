@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: XSS test
+  title: <i>XSS test</i>
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
   version: production
