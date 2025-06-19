@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-fetch.yaml",
+    "url": "https://raw.githubusercontent.com/AlessandraZullo/SecurityBoard/refs/heads/main/poc/xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-fetch.yaml",
+            "url": "https://raw.githubusercontent.com/AlessandraZullo/SecurityBoard/refs/heads/main/poc/xss.yaml",
             "name": "XSS payload"
         }
     ]
