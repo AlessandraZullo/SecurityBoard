@@ -4,6 +4,10 @@
 /openapi.json
 /catalog.ttl
 /catalog.xml
+/api/v1/docs/index.html?url=
+/docs
+/api/v1/docs/swagger-ui-bundle.js.map
+/swagger-ui-bundle.js.map 
 /catalog.jsonld
 /swagger/index.html
 /swagger/v1/swagger.json
