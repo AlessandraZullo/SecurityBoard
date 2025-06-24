@@ -1,6 +1,10 @@
 /api/dataprepservice/v1/openapi
 /hub
 /api/odag/v1/
+/saml/hub/my/work
+/saml/
+/internal_windows_authentication/
+/internal_forms_authentication/
 /dev/hub
 /dev-hub/engine-api-explorer
 /qmc/
