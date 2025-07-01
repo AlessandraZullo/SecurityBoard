@@ -6,6 +6,7 @@
 /.children.json/hWW.html
 /jcr:content.json
 /.json%0Aa.html?debug=layout
+/bin/querybuilder.feed.servlet;00aa.css?type=nt:file&nodename=*.zip
 /.json
 /libs/granite/configurations/content/view.html/conf
 /.1.json
