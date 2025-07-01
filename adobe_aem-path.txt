@@ -1,4 +1,5 @@
 /system/sling.js
+/libs/granite/security/content/sslConfig.html
 /.json/NJV.html
 /system/sling/info.sessionInfo.json
 /system/sling/info.sessionInfo.txt
@@ -6,6 +7,7 @@
 /jcr:content.json
 /.json%0Aa.html?debug=layout
 /.json
+/libs/granite/configurations/content/view.html/conf
 /.1.json
 /libs/cq/graphql/sites/admin/components/emptylist/emptylist.html
 /system/console
