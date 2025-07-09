@@ -2,3 +2,7 @@
 /MicroStrategy/servlet/mstrWeb
 /MicroStrategy/servlet/taskProc
 /MicroStrategyLibrary/auth/ui/loginPage
+/MicroStrategyLibrary/api/users?limit=-1
+/MicroStrategyLibrary/api/status
+/MicroStrategyLibrary/api/folders?limit=-1
+/MicroStrategyLibrary/api/v2/schedules
