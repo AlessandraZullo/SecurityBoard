@@ -3,3 +3,4 @@
 /api/V2/internal/UserProfile(21719)?id=21719
 /IconUploadHandler.ashx
 GenericContent/FileUploadPopup.aspx
+/Archer/contentapi/
