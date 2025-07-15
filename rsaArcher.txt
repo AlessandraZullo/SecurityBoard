@@ -9,8 +9,12 @@ GenericContent/FileUploadPopup.aspx
 /api/V2/Internal/User/ChangePassword
 /api/V2/internal/Dashboards
 /api/internal/task
+/Archer/Administration/UserProfilePopup.aspx?UserId=211
+/Archer/platformapi/core/system/applicationinfo/version
+/Archer/platformapi/core/system/usercontact
+/Archer/platformapi/core/system/user/21677
 /api/internal/activity/feed
-InvalidRequest.aspx
+/InvalidRequest.aspx
 /Offline/Library.aspx
 /api/internal/user/userconfig
 /api/internal/appearance/themegraphic
@@ -25,5 +29,5 @@ InvalidRequest.aspx
 /Archer/api/internal/user/userconfig
 /Archer/api/internal/appearance/themegraphic
 /Archer/api/core/system/user
-
+/Archer/foundation/ExtRedirect.aspx?hash=");alert(0);
 
