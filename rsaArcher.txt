@@ -22,6 +22,7 @@ GenericContent/FileUploadPopup.aspx
 /Archer/api/internal/Permission/GetModuleRecordAccess
 /Archer/api/V2/Internal/User/ChangePassword
 /Archer/api/V2/internal/Dashboards
+/Archer/api/V2/internal/SecurityParameters(6)?$count=true&request=6 
 /Archer/api/internal/task
 /Archer/api/internal/activity/feed
 /Archer/InvalidRequest.aspx
