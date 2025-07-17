@@ -1,6 +1,8 @@
 /apps/ArcherApp/Default.aspx
 /Default.aspx
 /Home.aspx
+/archer/Default.aspx
+/Archer/Shared/RepositoryFileServer.ashx?fileId=2&Type=Attachment
 /apps/ArcherApp/Home.aspx
 /api/V2/internal/UserProfile(21719)?id=21719
 /IconUploadHandler.ashx
