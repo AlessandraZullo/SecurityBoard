@@ -1,6 +1,13 @@
 index.jsp
 aa.js
 login.jsp
+faces/not_enabled_user.jsp
+not_enabled_user.jsp
+login.jsp
+faces/login.jsp
+faces/common/container.jsp
+common/container.jsp
+faces/errore.jsp
 home.jsp
 500.jsp
 404.jsp
