@@ -7,3 +7,17 @@
 /management
 /actuator
 /actuator/health
+/actuator/loggers
+/actuator/threaddump
+/actuator/scheduledtasks
+/actuator/sbom
+/actuator/metrics
+/actuator/mappings
+/actuator/loggers
+/actuator/info
+/actuator/heapdump
+/actuator/env
+/actuator/configprops
+/actuator/conditions
+/actuator/caches
+/actuator/beans
