@@ -2,6 +2,7 @@
 http://attacker.com
 https://attacker.com
 attacker.com
+http:/\/attacker.com
 www.attacker.com
 file://attacker.com
 mailto:esempio@attacker.com
