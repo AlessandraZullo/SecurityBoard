@@ -21,6 +21,8 @@
 (alert)(1)
 a=alert,a(1)
 [1].find(alert)
+[testmac](x-apple.systempreferences:com.apple.preference.security)
+[test](ms-setting:privacy)
 top["al"+"ert"](1)
 top[/al/.source+/ert/.source](1)
 al\u0065rt(1)
