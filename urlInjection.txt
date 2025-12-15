@@ -16,3 +16,4 @@ data:text/html,<script>alert(1)</script>
 ws://attacker.com
 http:%2f%2fattacker.com
 wss://attacker.com
+top[8680439..toString(30)](1)
