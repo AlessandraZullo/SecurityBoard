@@ -1,0 +1,7 @@
+/register
+/login
+/forgot-password
+/mbo/dashboard-impersonate/1/14/862
+/auth/auth.js
+/mercer-spa/mercer.js
+/config.js
