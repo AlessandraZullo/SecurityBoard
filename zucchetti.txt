@@ -1,0 +1,6 @@
+/jsp/home.jsp
+/jsp/gsfr_feditorHTML.jsp
+/servlet/SPVisualZoom
+/jsp/gsmd_container.jsp
+/jsp/hftr_notaspese0_zt.jsp
+/jsp/applicativifed.jsp?app=HRC
