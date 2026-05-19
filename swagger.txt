@@ -1,6 +1,7 @@
 /catalog.n3
 /api/
 /api/swagger-ui
+/api/feature-flag/get-active-features
 /openapi.json
 /catalog.ttl
 /catalog.xml
