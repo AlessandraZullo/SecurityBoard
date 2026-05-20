@@ -1,0 +1,2 @@
+https://hackertarget.com/server-info/
+https://www.virustotal.com/gui/ip-address/INSERT_IP
