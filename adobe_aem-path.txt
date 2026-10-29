@@ -1,4 +1,13 @@
 /system/sling.js
+/orchestrator/services/generateContentId
+/orchestrator/services/domain/
+/orchestrator/services/token/notify.json
+/content/forms/af/submit
+/content/dam/dam:batch.form.home.css/bin.1.json/file.res
+/bin/tagcommand.servlet?cmd=list&path=/bin/cq:tags
+/bin/tagcommand.servlet?cmd=list
+/a.css?debug=layout
+/etc/clientcontext/default/content.html
 /libs/granite/security/content/sslConfig.html
 /.json/NJV.html
 /system/console
