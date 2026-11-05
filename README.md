@@ -1,5 +1,5 @@
 # Wordlist
-My personal wordlist to fuzz endpoint or authentication during the pentetration tests.
+A personal wordlist for fuzzing during penetration test
 
 # Poc
 My personal poc to proof of concept 
