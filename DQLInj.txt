@@ -1,0 +1,2 @@
+table: DM_USER_S column:USER_LOGIN_NAME
+table: DM_USER_S column:USER_PASSWORD
