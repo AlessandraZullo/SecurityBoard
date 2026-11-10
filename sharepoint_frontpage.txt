@@ -1,5 +1,6 @@
 _vti_pvt/service.cnf
 SitePages/Home.aspx%253Fx=.css
+_catalogs/wp/MSContentEditor.dwp%253Fx=.gif
 _vti_inf.html
 _vti_bin/
 _vti_bin/spsdisco.aspx
@@ -10,6 +11,7 @@ _vti_bin/owssvr.dll
 _vti_bin/SiteData.asmx
 _layouts/userdisp.aspx?Force=True&ID=ID_UTENTE (1,2,3, ETC)
 _layouts
+_catalogs/masterpage/seattle.master%253Fx=.gif
 _layouts/1033
 _layouts/1033/AVREPORT.HTM
 _layouts/1033/AccessDeniedPage.aspx
