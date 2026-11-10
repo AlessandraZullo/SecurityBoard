@@ -1,4 +1,5 @@
 _vti_pvt/service.cnf
+SitePages/Home.aspx%253Fx=.css
 _vti_inf.html
 _vti_bin/
 _vti_bin/spsdisco.aspx
