@@ -3,6 +3,7 @@ SitePages/Home.aspx%253Fx=.css
 _catalogs/wp/MSContentEditor.dwp%253Fx=.gif
 _vti_inf.html
 _vti_bin/
+_catalogs/masterpage/oslo.master%253Fx=.gif
 _vti_bin/spsdisco.aspx
 layouts/15/ToolPane.aspx
 _vti_bin/shtml.dll/_vti_rpc
