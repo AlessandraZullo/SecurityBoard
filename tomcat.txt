@@ -1,6 +1,8 @@
 /..;/
 /admin
 /admin-console
+%5c..%5c..%5c..%5clogs%5ccatalina.2026-11-09.log
+..\..\..\..\logs\catalina.2026-11-09.log
 /docs/
 /examples
 /examples/jsp/index.html
