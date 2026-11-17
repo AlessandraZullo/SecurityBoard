@@ -1,3 +1,4 @@
+..;/..;/..;/etc/hosts
 JNLP-INF/APPLICATION.JNLP
 META-INF/app-config.xml
 META-INF/application-client.xml
