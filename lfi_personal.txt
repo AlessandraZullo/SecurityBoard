@@ -1,0 +1,9 @@
+/var/lib/sss/pubconf/known_hosts
+/ssh/id_rsa
+/data/services/GLASSFISH/glassfish3/glassfish/domains/b2x/config/server.policy 
+/var/log/mysqld.log
+/data/services/GLASSFISH/glassfish3/glassfish/domains/b2x/config/login.conf
+/data/services/GLASSFISH/glassfish3/glassfish/domains/b2x/lib/classes/logback.xml 
+/data/services/GLASSFISH/glassfish3/glassfish/modules/admin-cli.jar
+/etc/krb5.conf
+/etc/sssd/sssd.conf
